@@ -1,6 +1,6 @@
 ## Live Demo of Website
 
-You can access Live Web Demo [here](https://652181baac0ed713e250cff8--admirable-twilight-b5ca40.netlify.app/). <br/>
+You can access Live Web Demo [here](https://admirable-twilight-b5ca40.netlify.app). <br/>
 **NOTE:** This is just a prototype, Real Web application could me more interactive and clear in term of design, lots of functionalities can be added, but for now I have developed a prototype, I can create much better than this.<br/>
 **NOTE:** I have created this application from scratch, did not use any pre-built theme.
 <br/><br/>
